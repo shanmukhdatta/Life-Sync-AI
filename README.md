@@ -14,7 +14,7 @@
 ## 🚀 Live Demo
 
 - **Frontend Application**: [https://life-sync-ai-red.vercel.app/](https://life-sync-ai-red.vercel.app) (Deployed on Vercel)
-- **Backend API Docs**: [https://lifesync-ai-backend.onrender.com/api/docs](https://lifesync-ai-backend.onrender.com/api/docs) (Deployed on Render)
+- **Backend API Docs**: [https://life-sync-ai.onrender.com/api/docs](https://life-sync-ai.onrender.com/api/docs) (Deployed on Render)
 
 *(Note: The backend is hosted on a free Render instance and may take 50 seconds to spin up on initial load).*
 
