@@ -11,6 +11,15 @@
 
 ---
 
+## 🚀 Live Demo
+
+- **Frontend Application**: [https://lifesync-ai.vercel.app](https://lifesync-ai.vercel.app) (Deployed on Vercel)
+- **Backend API Docs**: [https://lifesync-ai-backend.onrender.com/api/docs](https://lifesync-ai-backend.onrender.com/api/docs) (Deployed on Render)
+
+*(Note: The backend is hosted on a free Render instance and may take 50 seconds to spin up on initial load).*
+
+---
+
 ## What Is LifeSync AI?
 
 Most people juggle **10+ apps** just to manage their day. LifeSync AI replaces all of them with one intelligent assistant that knows your **calendar, emails, tasks, health goals, finances, and daily habits** — then proactively makes decisions and takes actions on your behalf, *exactly when you need it*.
