@@ -1,0 +1,44 @@
+# ── Node / Frontend ──────────────────────────────────────────
+node_modules/
+dist/
+.vite/
+frontend/.env
+
+# ── Python / Backend ─────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+.env
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+backend/.env
+
+# ── OS ───────────────────────────────────────────────────────
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+
+# ── IDE ──────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── Logs ─────────────────────────────────────────────────────
+*.log
+logs/
+
+# ── Secrets (never commit these!) ────────────────────────────
+*.pem
+*.key
+credentials.json
+token.json
+service_account.json

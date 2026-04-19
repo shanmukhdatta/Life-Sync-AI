@@ -1,0 +1,14 @@
+{
+  "name": "lifesync-ai",
+  "private": true,
+  "version": "1.0.0",
+  "description": "LifeSync AI — Intelligent Personal Life Operations Assistant",
+  "scripts": {
+    "frontend": "cd frontend && npm run dev",
+    "backend": "cd backend && uvicorn main:app --reload --port 8000",
+    "install:frontend": "cd frontend && npm install",
+    "build:frontend": "cd frontend && npm run build",
+    "test:backend": "cd backend && pytest tests/ -v",
+    "setup": "npm run install:frontend && cd backend && pip install -r requirements.txt"
+  }
+}
